@@ -29,6 +29,7 @@ public class lab1_2 {
         if (d == max)
             count += 1;
         System.out.printf("The number of max is %d", count);
+        in.close();
 
     }
 }

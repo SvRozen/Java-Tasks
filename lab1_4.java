@@ -51,6 +51,7 @@ public class lab1_4 {
         }
 
         System.out.print(seasonString);
+        in.close();
 
     }
 }

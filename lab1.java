@@ -20,6 +20,7 @@ public class lab1 {
     else
       min = d;
     System.out.printf("Min number is %d", min);
+    in.close();
 
   }
 }

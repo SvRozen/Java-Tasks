@@ -39,6 +39,7 @@ public class lab1_3 {
         else
             min = e;
         System.out.printf("Min number is %d", min);
+        in.close();
 
     }
 }
